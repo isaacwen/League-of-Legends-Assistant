@@ -1,6 +1,8 @@
 # League of Legends Assistant
 Using web-scraping, I created a League of Legends assistant that emulates the functionality of sites and applications like op.gg, u.gg, and blitz.gg.
 
+All information presented in this program is from u.gg or leagueoflegends.fandom.com.
+
 ## Features
 This program runs entirely in the Python console, with an interactive UI:
 <img src = "Pics/pic0.png">
