@@ -2,13 +2,13 @@
 Using web-scraping, I created a League of Legends assistant that emulates the functionality of sites and applications like op.gg, u.gg, and blitz.gg.
 
 ## Features
-This program runs entirely in the console, with an interactive UI:
+This program runs entirely in the Python console, with an interactive UI:
 <img src = "Pics/pic0.png">
 
 Users can get information such as the recommended runes and skill order for any champion,
 <img src = "Pics/pic2.png">
 
-or they can search up the ranks and role of their opponents, along with information about each of the opponent's champions.
+or they can instantly search up the ranks and role of their opponents, along with information about each of the opponent's champions.
 <img src = "Pics/pic3.png">
 
 ## Installation and Dependencies
